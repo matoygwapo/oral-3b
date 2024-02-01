@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkadah_diary"]=self["webpackChunkadah_diary"]||[]).push([[527],{4527:function(n,r,a){a.r(r),a.d(r,{default:function(){return h}});var e=a(3396);const u=(0,e._)("h1",null,"This is the profile page",-1),i=[u];function t(n,r){return(0,e.wg)(),(0,e.iD)("div",null,i)}var s=a(89);const c={},d=(0,s.Z)(c,[["render",t]]);var h=d}}]);
+//# sourceMappingURL=527.11d4e2ae.js.map
